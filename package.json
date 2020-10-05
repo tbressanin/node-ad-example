@@ -12,6 +12,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "msal": "^1.4.1",
+    "node-gyp": "^7.1.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "passport-microsoft": "^0.1.0",
